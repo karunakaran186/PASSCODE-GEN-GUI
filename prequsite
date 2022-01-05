@@ -1,0 +1,3 @@
+module to be installed
+
+pip install pyperclip
